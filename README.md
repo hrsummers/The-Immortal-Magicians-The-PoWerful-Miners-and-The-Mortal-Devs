@@ -1,5 +1,6 @@
 # The Immortal Magicians, The PoWerful Miners, and The Mortal Devs
 A Multi-Stakeholder DAO.
+
 <br>
 Born of the mind of <a href="https://twitter.com/lrettig/status/1112720005194547200">Lane Rettig</a> in the <a href="https://twitter.com/lrettig/status/1112720005194547200">Multi-Stakeholder DAO Tweet Proclamation</a> on April 1, 2019.
 
@@ -20,4 +21,5 @@ One DAO to bring them all and in bytecode bind them
 In the Land of Ether where the Rainbows lie.
 
 <br>
+
 - The Lord of the DAOs, Epigraph
