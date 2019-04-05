@@ -1,0 +1,9 @@
+I propose a "Block Reward Tax". 
+
+In order to be fair to the "little guys" and promote a more decentralized network, a sliding tax scale will give an advantage to the home miner and make mining pools pay their fair share of governance and development costs. The sliding tax will be calculated as a percentage, equal to your overall hash rate power in the network, to be applied to new Ether released in block rewards.
+
+For Example: 
+
+The current block reward is 2 Ether and a mining pool has %10 of the overall hash power in the network at the time the block is mined. The mining pool will be "taxed" at a rate of 0.2 ETH. In reality, the mining pool never has to pay the tax. But rather, when the Block is mined the Meta-DAO is sent 0.2 ETH and the mining pool is sent 1.8 ETH.
+
+
